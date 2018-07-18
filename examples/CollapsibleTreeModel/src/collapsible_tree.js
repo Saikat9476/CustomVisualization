@@ -1,4 +1,4 @@
-defteam.looker.plugins.visualizations.add({
+looker.plugins.visualizations.add({
   id: 'collapsibletree',
   label: 'Collapsible Tree',
   options: {
