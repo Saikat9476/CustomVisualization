@@ -1,4 +1,4 @@
-looker.plugins.visualizations.add({
+add({
   id: 'collapsibletree',
   label: 'Collapsible Tree',
   options: {
